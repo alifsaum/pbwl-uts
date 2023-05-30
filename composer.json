@@ -1,0 +1,14 @@
+{
+    "name": "asus/uts",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "authors": [
+        {
+            "name": "Alifsaum",
+            "email": "alisaum21@gmail.com"
+        }
+    ]
+}
